@@ -1,0 +1,5 @@
+[project]
+name = "llmaindx-structured-data-extraction"
+version = "0"
+requires-python = ">=3.12,<3.13"
+readme = "README.md"

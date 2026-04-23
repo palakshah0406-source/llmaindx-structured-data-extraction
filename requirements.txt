@@ -1,0 +1,7 @@
+# Use a venv with Python 3.12 (see .python-version and pyproject.toml).
+# llama-index-llms-gemini pins pillow<11; Python 3.14+ is not supported on Windows.
+llama-index-core>=0.14.21,<0.15
+llama-index-llms-gemini>=0.6.0,<0.7
+google-generativeai>=0.8.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
